@@ -1,6 +1,6 @@
 # crypto_app
 
-A new Flutter project.
+A flutter app getting api data to populate cards to read info on current crypto currencies.
 
 ## Getting Started
 
